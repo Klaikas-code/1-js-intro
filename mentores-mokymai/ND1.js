@@ -172,3 +172,6 @@ function TextLen (txt)
 }
 TextLen(txt1);
 TextLen(txt2);
+TextLen(txt2);
+TextLen(txt2);
+TextLen(txt2);
