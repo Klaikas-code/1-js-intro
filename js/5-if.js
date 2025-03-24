@@ -52,4 +52,19 @@ const temp2 = -5
     
 }
 
-    
+
+console.clear();
+
+const clientValue = 4
+
+if (4 === clientValue){
+    console.log('tenkina');
+     }
+     else {console.log("NE-tenkina");
+     }
+
+if (4 === '4'){
+        console.log('tenkina');
+         }
+         else {console.log("NE-tenkina");
+         }
