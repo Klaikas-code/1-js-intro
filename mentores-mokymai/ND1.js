@@ -57,7 +57,7 @@ AllText(txt1)
 AllText(txt2)
 AllText(txt3)
 
-console.clear();
+//console.clear();
 
 function NumSum (list)
 {
@@ -68,7 +68,7 @@ NumSum(list1)
 NumSum(list2)
 NumSum(list3)
 
-console.clear();
+//console.clear();
 
 function BackwText (string)
 {
@@ -79,7 +79,7 @@ BackwText(txt1)
 BackwText(txt2)
 BackwText(txt3)
 
-console.clear();
+//console.clear();
 
 // ND#3
 
@@ -92,7 +92,7 @@ if(Big > Small) {
     console.log("Bandykite kitą kartą. ")
 }
 
-console.clear();
+//console.clear();
 
 // Skaiciu palyginimai
 
@@ -156,7 +156,7 @@ if ((num2 === num3) && (num3 < num1) ) {
     console.log(`Num2 ir Num3 yra lygus ir maziuausi`, num2)
 }
 // Išvesti teksto tipo kintamųjų ilgius
-
+//onsole.clear();
 function TextLen (txt)
 {
     let L0 = (txt[0]).length;
@@ -172,6 +172,19 @@ function TextLen (txt)
 }
 TextLen(txt1);
 TextLen(txt2);
-TextLen(txt2);
-TextLen(txt2);
-TextLen(txt2);
+TextLen(txt3);
+
+//console.clear();
+
+/*Tarpusavyje palyginti sąrašo tipo kintamųjų ilgius:
+kuris didesnis
+kuris mažesnis
+ar jie lygūs
+ar jie nelygūs
+kuris didesnis arba lygus
+kuris mažesnis arba lygus
+*/
+
+function lenghtMoreLess (txt){
+
+}

@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "ND1": "node --watch ./mentores-mokymai/ND1.js",
+    "mokinis": "node --watch ./mentores-mokymai/6-mokinis.js",
+    "ND11": "node --watch ./js/ND1.js",
     "array": "node --watch ./js/6-array.js",
     "if": "node --watch ./js/5-if.js",
     "boolean": "node --watch ./js/4-boolean.js",
