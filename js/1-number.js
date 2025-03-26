@@ -17,6 +17,7 @@ Aritmetiniai operatoriai: +, -, *, /, **,(kelimas laipsniu)
 , %(dalybos liekana)
 Aritmetiniai priskyrimo operatoriai: +=, -=, *=, /=, **=,(kelimas laipsniu)
 , %=(dalybos liekana)
+sentence5 += dictionary[l++]+', '; (++ didina skaiciu viena reiksme)
 */
 
 

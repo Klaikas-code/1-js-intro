@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "ND1": "node --watch ./mentores-mokymai/ND1.js",
+    "ND2": "node --watch ./mentores-mokymai/ND2.js",
+    "marksaverage": "node --watch ./task/marks-average.js",
     "mokinis": "node --watch ./mentores-mokymai/6-mokinis.js",
+    "typeof": "node --watch ./js/7-typeof.js.js",
+    "funkcijos": "node --watch ./task/funkcijos.js",
     "ND11": "node --watch ./js/ND1.js",
     "array": "node --watch ./js/6-array.js",
     "if": "node --watch ./js/5-if.js",
@@ -14,6 +18,8 @@
     "string": "node --watch ./js/2-string.js",
     "number": "node --watch ./js/1-number.js",
     "js": "node ./index.js",
+    "adult": "node --watch ./task/adult.js",
+    "text-size": "node --watch ./task/text-size.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
